@@ -1,0 +1,52 @@
+.adtab{
+    margin-left: 200px;
+}
+.themes{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+.progress-bar1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, white 89%, transparent 80% 100%),
+      conic-gradient(rgb(212, 255, 193) 80%, lightgrey 0);    
+  }
+  .progress-bar2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, white 89%, transparent 80% 100%),
+      conic-gradient(rgb(181, 251, 255) 60%, lightgrey 0);    
+  }
+  .progress-bar3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, white 89%, transparent 80% 100%),
+      conic-gradient(rgb(255, 184, 184) 20%, lightgrey 0);    
+  }
+  
+
+  .projprog{
+    margin-top: 20px;
+    margin-left: 170px;
+    
+   display: flex;
+  }
